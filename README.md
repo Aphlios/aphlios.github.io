@@ -9,7 +9,7 @@
 - Honour: Outstanding Graduate and Outstanding Student
 
 ### 2024.04 Publication
-- **Instance-aware Diversity Feature Generation for Unsupervised Person Re-Identification** *The Forth Auther, Displays* 
+- **Instance-aware Diversity Feature Generation for Unsupervised Person Re-Identification** *The Forth Auther, Journal: Displays* 
 
 ### 2023.02-2023.06 Graduation Project
 - Completed the project of "Design and implementation of human instance segmentation algorithm" and wrote the graduation thesis.
