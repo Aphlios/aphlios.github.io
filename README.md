@@ -7,7 +7,7 @@
 - **Software Engineering** Advised by: Xiaowei Zhang
 - Programming Tools: PyTorch, Latex, SpringBoot, Bootstrap
 - Honour: Outstanding Graduate and Outstanding Student
-### 2024.8-Current University of Macau
+### Current: University of Macau
 - **Artificial Intelligence** Advised by: Steven Morad
 
 ### 2024.04 Publication
