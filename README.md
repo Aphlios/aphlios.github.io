@@ -4,9 +4,11 @@
 ## Experience
 
 ### 2019.09-2023.06 Qingdao University
-- **Software Engineering GPA:** 3.38 **Advised by** Xiaowei Zhang
+- **Software Engineering** Advised by: Xiaowei Zhang
 - Programming Tools: PyTorch, Latex, SpringBoot, Bootstrap
 - Honour: Outstanding Graduate and Outstanding Student
+### 2024.8-Current University of Macau
+- **Artificial Intelligence** Advised by: Steven Morad
 
 ### 2024.04 Publication
 - **Instance-aware Diversity Feature Generation for Unsupervised Person Re-Identification** *The Forth Auther, Journal: Displays* 
@@ -24,6 +26,7 @@
 ## Education
 
 **Qingdao University**
+**University of Macau**
 
 ## Contact
 mc45154@um.edu.mo
