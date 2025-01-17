@@ -5,7 +5,7 @@
 
 ### 2019.09-2023.06 Qingdao University
 - **Software Engineering** Advised by: Xiaowei Zhang
-- Programming Tools: PyTorch, Latex, SpringBoot, Bootstrap
+- Programming Tools: PyTorch, Latex, SpringBoot, Bootstrap, Jax
 - Honour: Outstanding Graduate and Outstanding Student
 ### Current: University of Macau
 - **Artificial Intelligence** Advised by: Steven Morad
@@ -26,6 +26,7 @@
 ## Education
 
 **Qingdao University**
+
 **University of Macau**
 
 ## Contact
