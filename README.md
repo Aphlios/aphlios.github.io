@@ -5,13 +5,15 @@
 
 ### 2019.09-2023.06 Qingdao University
 - **Software Engineering** Advised by: Xiaowei Zhang
-- Programming Tools: PyTorch, Latex, SpringBoot, Bootstrap, Jax
+- Programming Tools: PyTorch, Latex, SpringBoot, Bootstrap
 - Honour: Outstanding Graduate and Outstanding Student
 ### Current: University of Macau
 - **Artificial Intelligence** Advised by: Steven Morad
+- Programming Tools: Jax, Equinox, Typst
 
 ### 2024.04 Publication
-- **Instance-aware Diversity Feature Generation for Unsupervised Person Re-Identification** *The Forth Auther, Journal: Displays* 
+- **Instance-aware Diversity Feature Generation for Unsupervised Person Re-Identification** *The Forth Auther, Journal: Displays*
+- **one paper submit to RLC(Reinforcement Learning Conference)**
 
 ### 2023.02-2023.06 Graduation Project
 - Completed the project of "Design and implementation of human instance segmentation algorithm" and wrote the graduation thesis.
