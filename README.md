@@ -13,7 +13,6 @@
 
 ### 2024.04 Publication
 - **Instance-aware Diversity Feature Generation for Unsupervised Person Re-Identification** *The Forth Auther, Journal: Displays*
-- **one paper submit to RLC(Reinforcement Learning Conference)**
 
 ### 2023.02-2023.06 Graduation Project
 - Completed the project of "Design and implementation of human instance segmentation algorithm" and wrote the graduation thesis.
